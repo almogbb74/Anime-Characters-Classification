@@ -1,0 +1,10 @@
+labels = ['Aki_Hayakawa', 'Anya_Froger', 'Aqua', 'Arima_Kousei', 'Armin_Arlert', 'Ayase_Momo', 'Bojji', 'Darkness',
+          'Denji', 'Dot_Barrett', 'Edward_Elric', 'Emilia', 'Emma', 'Eren_Yeager', 'Fern', 'Frieren', 'Fujiwara_Chika',
+          'Fushiguro_Megumi', 'Giorno_Giovanna', 'Guido_Mista', 'Hibino_Kafka', 'Higashikata_Josuke', 'Himura_Kenshin',
+          'Hirose_Koichi', 'Hiyori_Iki', 'Hoshino_Aqua', 'Ishigami_Yu', 'Itaru_Hashida', 'Kamado_Tanjiro',
+          'Kanroji_Mitsuri', 'Kaouru_Kamiya', 'Katsuki_Bakugo', 'Kujo_Jotaro', 'Levi_Ackerman', 'Loid_Froger', 'Luffy',
+          'Mash_Burnedead', 'Mayuri_Shiina', 'Megumin', 'Midoriya_Izuku', 'Mikasa_Ackerman', 'Natsuki_Subaru',
+          'Noriaki_Kakyoin', 'Power', 'Rintaro_Okabe', 'Roronoa_Zoro', 'Sagara_Sanosuke', 'Satou_Kazuma',
+          'Senku_Ishigami', 'Shigeo_Kageyama', 'Shinomiya_Kaguya', 'Shinomiya_Kikoru', 'Shinra_Kusakabe',
+          'Shirogane_Miyuki', 'Stark', 'Sung_Jinwoo', 'Takakura_Ken', 'Tokito_Muichiro', 'Wakana_Gojo', 'Yor_Froger',
+          'Yuji_Itadori']
